@@ -1,0 +1,59 @@
+.container{
+    background-color: white;
+    height: 80vh;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+    margin: auto;
+}
+.card1{
+    height: 54vh;
+    width: 80%;
+    border: solid;
+    border-radius: 2px black;
+    text-align: center;
+    margin: 25px;
+    padding: 20px;
+}
+
+.card2{
+    color: white;
+    height: 55vh;
+    width: 80%;
+    border: solid;
+    border-radius: 2px black;
+    text-align: center;
+    margin: 25px;
+    padding: 20px;
+    background-color: rgba(249, 12, 110, 0.868);
+}
+.card3{
+    height: 54vh;
+    width: 80%;
+    border: solid;
+    border-radius: 2px black;
+    text-align: center;
+    margin: 25px;
+    padding: 20px;
+}
+.btn{
+    height: 5vh;
+    width: 50%;
+    color:  rgba(249, 12, 110, 0.868);
+    background-color: white;
+    border: 5px;
+    border-radius: 200px;
+    
+}
+.btn1{
+    height: 5vh;
+    width: 50%;
+    color: white;
+    background-color: black;
+    border: 5px;
+    border-radius: 200px;
+    
+
+
+}
